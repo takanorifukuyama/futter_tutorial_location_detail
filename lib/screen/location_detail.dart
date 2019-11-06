@@ -15,9 +15,9 @@ class LocationDetail extends StatelessWidget {
         crossAxisAlignment: CrossAxisAlignment.stretch,
         children: [
           ImageBanner("assets/images/mtfuji.jpg"),
-          TextSection(Colors.red),
-          TextSection(Colors.green),
-          TextSection(Colors.blue),
+          TextSection("summary", ";faihp ihpmhf uaipiofhi psioh iuphic haiuhi ua@npmni @mi@ji moi@mjiom@y"),
+          TextSection("summary", ";faihp ihpmhf uaipiofhi psioh iupipai m;ji om@ m;jim@m hic haiuhi ua@ny"),
+          TextSection("summary", ";faihp ihpmhf uaipiofhi psioh iuphic haiuhi ua@ny"),
         ],
       )
     );
